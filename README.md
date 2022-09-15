@@ -1,5 +1,18 @@
 # Python_Nested_IF_ELse
 
+## Nested If Else Syntax
+```
+if condition:
+    if condition:
+    	Body of if
+    else: 
+    	Body of else
+else: 
+    Body of else
+```
+
+## Code Used In Video
+
 ```
 a = 20
 b = 10
